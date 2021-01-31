@@ -1,4 +1,4 @@
-# Gauss-Jordan-Solver
+# Gauss-Jordan-Solver 
 Solves n x (n+1) matrix by performing Gauss Jordan Elimination method.
 
 ## Input
